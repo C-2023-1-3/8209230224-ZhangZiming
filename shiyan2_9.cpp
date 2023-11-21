@@ -13,7 +13,7 @@ int main()
 		sum += i * signal_value;
 		if (i * 2 > 100)
 		{
-			cout << "平均每天要" << sum / day;
+			cout << "骞冲潎鍊间负" << sum / day;
 		}
 
 	}
