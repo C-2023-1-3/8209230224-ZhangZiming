@@ -20,7 +20,7 @@ int main()
 	}
 	else
 	{
-		cout << "不在定义域内\n";
+		cout << "涓嶅湪瀹氫箟鍩熷唴\n";
 	}
 
 	system("pause");
