@@ -6,7 +6,7 @@ int getnum(double a,double b)
 	  
 	if ((a + b / a) / 2 - a < 10e-5&&(a+b/a)/2-a>-10e-5)
 	{
-		cout << "¸ÃÖµµÄÆ½·½¸ùÎª" << (a+b/a)/2;
+		cout << "è¯¥å€¼çš„å¹³æ–¹æ ¹" << (a+b/a)/2;
 		return 0;
 	}
 	getnum((a + b / a) / 2, b);
