@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	double t1, t2;
-	cout << "ÊäÈëÒ»¸ö»ªÊÏÎÂ¶È\n";
+	cout << "è¾“å…¥ä¸€ä¸ªåŽæ°åº¦\n";
 	cin >> t1;
 
 	t2 = (t1 - 32) / 1.8;
